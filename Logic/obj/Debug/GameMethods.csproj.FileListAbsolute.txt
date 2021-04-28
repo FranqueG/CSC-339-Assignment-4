@@ -1,0 +1,6 @@
+C:\Users\franq\Source\Repos\Connect4-SharkBait\src\Logic\bin\Debug\Logic.dll
+C:\Users\franq\Source\Repos\Connect4-SharkBait\src\Logic\bin\Debug\Logic.pdb
+C:\Users\franq\Source\Repos\Connect4-SharkBait\src\Logic\obj\Debug\GameMethods.csprojAssemblyReference.cache
+C:\Users\franq\Source\Repos\Connect4-SharkBait\src\Logic\obj\Debug\GameMethods.csproj.CoreCompileInputs.cache
+C:\Users\franq\Source\Repos\Connect4-SharkBait\src\Logic\obj\Debug\Logic.dll
+C:\Users\franq\Source\Repos\Connect4-SharkBait\src\Logic\obj\Debug\Logic.pdb
